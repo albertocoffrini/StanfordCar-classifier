@@ -14,4 +14,4 @@ Vengono allegati al report:
 
 - l’ultima versione del codice utilizzato con varie parti commentate dato che sono state utilizzate diverse configurazioni.
 - modelli scaricabili dal link sulla pagina github del progetto ottenuti durante i  test effettuati.
-    
+      https://www.dropbox.com/scl/fo/uo9ti5shhc5zadm0eni6k/h?rlkey=jgh0ogxuy357qg3yvfulfdw5y&dl=0
